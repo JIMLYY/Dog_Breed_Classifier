@@ -28,8 +28,13 @@ and applied transfer learning respectively to identify an estimate of the canine
 
 Note: If you do not have anaconda, follow the [instructions in original repo](https://github.com/udacity/deep-learning-v2-pytorch/blob/master/README.md) to set up the environemnt. 
 
+## Demo
+### Human faces are provided...
+![](Demo/human_faces.png)
+### Dog faces are provided...
+![](Demo/dog_faces.png)
 
-## Try yourself:rocket:
+## Try it yourself:rocket:
 1. If you are new to the neural network, this is a good project to check your unstanding of the basics. The original repo can 
 be found at ```https://github.com/udacity/deep-learning-v2-pytorch.git```.
 2. Use ```git clone https://github.com/udacity/deep-learning-v2-pytorch.git```
